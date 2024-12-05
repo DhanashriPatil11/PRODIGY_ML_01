@@ -11,8 +11,6 @@ notebooks: Contains Jupyter notebooks detailing data analysis, modeling, and vis
 datasets: Includes sample datasets used for the projects.
 
 
-I want to express my heartfelt thanks for the incredible opportunity to intern at Podigy Infotech. This experience has been invaluable in helping me grow my skills in machine learning and gain practical knowledge.I hope to stay in touch and contribute to similar innovative projects in the future. Thank you once again for this wonderful experience.
-
 
 # PRODIGY_ML_01
 
@@ -32,6 +30,8 @@ Create a K-means clustering algorithm to group customers of a retail store based
 Dataset Used:- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 
+
+I want to express my heartfelt thanks for the incredible opportunity to intern at Podigy Infotech. This experience has been invaluable in helping me grow my skills in machine learning and gain practical knowledge.I hope to stay in touch and contribute to similar innovative projects in the future. Thank you once again for this wonderful experience.
 
 
 
