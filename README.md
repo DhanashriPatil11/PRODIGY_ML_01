@@ -1,3 +1,7 @@
+I want to express my heartfelt thanks for the incredible opportunity to intern at Podigy Infotech. This experience has been invaluable in helping me grow my skills in machine learning and gain practical knowledge.I hope to stay in touch and contribute to similar innovative projects in the future. Thank you once again for this wonderful experience.
+
+
+
 📝**Overview**
 
 This repository showcases my work during my machine learning internship at Prodigy Infotech. The projects include end-to-end machine learning workflows, from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and visualization.
@@ -31,7 +35,6 @@ Dataset Used:- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentatio
 
 
 
-I want to express my heartfelt thanks for the incredible opportunity to intern at Podigy Infotech. This experience has been invaluable in helping me grow my skills in machine learning and gain practical knowledge.I hope to stay in touch and contribute to similar innovative projects in the future. Thank you once again for this wonderful experience.
 
 
 
