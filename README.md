@@ -8,3 +8,16 @@ I want to express my heartfelt thanks for the incredible opportunity to intern a
 Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 
 Dataset Used:-  https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+
+# PRODIGY_ML_02
+
+#Task-01
+
+Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
+
+Dataset Used:- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+
+
+
