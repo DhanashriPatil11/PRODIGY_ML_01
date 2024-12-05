@@ -33,6 +33,10 @@ Dataset Used:- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentatio
 
 
 
+
+
+
+
 🤝 **Connect With Me**
 If you have any questions or want to collaborate, feel free to reach out!
 
