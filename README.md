@@ -1,10 +1,10 @@
-📝** Overview**
-
+**📝****Overview**
 
 This repository showcases my work during my machine learning internship at Prodigy Infotech. The projects include end-to-end machine learning workflows, from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and visualization.
 
 
-📂 **Repository Contents**
+**📂** **Repository Contents**
+
 notebooks: Contains Jupyter notebooks detailing data analysis, modeling, and visualizations.
 datasets: Includes sample datasets used for the projects.
 
