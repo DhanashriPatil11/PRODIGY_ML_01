@@ -6,6 +6,8 @@ This repository showcases my work during my machine learning internship at Prodi
 **📂** **Repository Contents**
 
 notebooks: Contains Jupyter notebooks detailing data analysis, modeling, and visualizations.
+
+
 datasets: Includes sample datasets used for the projects.
 
 
